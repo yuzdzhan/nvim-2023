@@ -81,6 +81,7 @@ local servers = {
     },
   },
   cssls = {},
+  cssmodules_ls = {},
   jsonls = {},
   intelephense = {     -- server nam
         intelephense = { -- settings schema starts here
